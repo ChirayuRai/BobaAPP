@@ -1,0 +1,15 @@
+{
+  "name": "postgres_api",
+  "version": "1.0.0",
+  "description": "Api used to connect users to the boba database on this machine's postgres server/database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirayu Rai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}
