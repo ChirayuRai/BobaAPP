@@ -1,3 +1,3 @@
 # BobaAPP
 
-This will hopefully be a fully fleshed out mobile app written in react native. As of current, I have just added the files for the API.
+Created an API in order to store my boba consumption on a database stored on the server I made. 
